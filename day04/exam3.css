@@ -22,6 +22,9 @@
     text-decoration: underline overline;
     
 }
+
+
+
 .writer{
     text-align: center; /* content(내용물) 의 가로 정렬*/
     text-decoration: underline overline line-through; 
