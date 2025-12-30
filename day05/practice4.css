@@ -1,0 +1,11 @@
+.로그인구역{
+    text-align: center ;
+    border-radius: 20px ;
+    box-shadow: 3px 3px 10px gray ;
+}
+
+.로그인버튼{
+    background-color: blue;
+    color: white;
+    border-radius: 5px ;
+}
